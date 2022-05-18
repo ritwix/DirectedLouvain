@@ -34,7 +34,7 @@ obj/
 *.bin
 modularity_values_louvain_oriente.txt
 modularity_values_directed_louvain.txt
-*.tree
+# *.tree
 *.wgt
 *renum*
 snap/
@@ -43,3 +43,5 @@ README_DOXYGEN.md
 
 python-binding/build/*
 !python-binding/build/python-use.py
+
+.pyenv/
