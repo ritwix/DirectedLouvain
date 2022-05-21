@@ -1,0 +1,249 @@
+b'Aruba'|ABW|533
+b'Afghanistan'|AFG|4
+b'Angola'|AGO|24
+b'Anguilla'|AIA|660
+b'land Islands'|ALA|248
+b'Albania'|ALB|8
+b'Andorra'|AND|20
+b'United Arab Emirates'|ARE|784
+b'Argentina'|ARG|32
+b'Armenia'|ARM|51
+b'American Samoa'|ASM|16
+b'Antarctica'|ATA|10
+b'French Southern Territories'|ATF|260
+b'Antigua and Barbuda'|ATG|28
+b'Australia'|AUS|36
+b'Austria'|AUT|40
+b'Azerbaijan'|AZE|31
+b'Burundi'|BDI|108
+b'Belgium'|BEL|56
+b'Benin'|BEN|204
+b'Bonaire, Sint Eustatius and Saba'|BES|535
+b'Burkina Faso'|BFA|854
+b'Bangladesh'|BGD|50
+b'Bulgaria'|BGR|100
+b'Bahrain'|BHR|48
+b'Bahamas'|BHS|44
+b'Bosnia and Herzegovina'|BIH|70
+b'Saint Barthlemy'|BLM|652
+b'Belarus'|BLR|112
+b'Belize'|BLZ|84
+b'Bermuda'|BMU|60
+b'Bolivia, Plurinational State of'|BOL|68
+b'Brazil'|BRA|76
+b'Barbados'|BRB|52
+b'Brunei Darussalam'|BRN|96
+b'Bhutan'|BTN|64
+b'Bouvet Island'|BVT|74
+b'Botswana'|BWA|72
+b'Central African Republic'|CAF|140
+b'Canada'|CAN|124
+b'Cocos (Keeling) Islands'|CCK|166
+b'Switzerland'|CHE|756
+b'Chile'|CHL|152
+b'China'|CHN|156
+b"Cte d'Ivoire"|CIV|384
+b'Cameroon'|CMR|120
+b'Congo, The Democratic Republic of the'|COD|180
+b'Congo'|COG|178
+b'Cook Islands'|COK|184
+b'Colombia'|COL|170
+b'Comoros'|COM|174
+b'Cabo Verde'|CPV|132
+b'Costa Rica'|CRI|188
+b'Cuba'|CUB|192
+b'Curaao'|CUW|531
+b'Christmas Island'|CXR|162
+b'Cayman Islands'|CYM|136
+b'Cyprus'|CYP|196
+b'Czechia'|CZE|203
+b'Germany'|DEU|276
+b'Djibouti'|DJI|262
+b'Dominica'|DMA|212
+b'Denmark'|DNK|208
+b'Dominican Republic'|DOM|214
+b'Algeria'|DZA|12
+b'Ecuador'|ECU|218
+b'Egypt'|EGY|818
+b'Eritrea'|ERI|232
+b'Western Sahara'|ESH|732
+b'Spain'|ESP|724
+b'Estonia'|EST|233
+b'Ethiopia'|ETH|231
+b'Finland'|FIN|246
+b'Fiji'|FJI|242
+b'Falkland Islands (Malvinas)'|FLK|238
+b'France'|FRA|250
+b'Faroe Islands'|FRO|234
+b'Micronesia, Federated States of'|FSM|583
+b'Gabon'|GAB|266
+b'United Kingdom'|GBR|826
+b'Georgia'|GEO|268
+b'Guernsey'|GGY|831
+b'Ghana'|GHA|288
+b'Gibraltar'|GIB|292
+b'Guinea'|GIN|324
+b'Guadeloupe'|GLP|312
+b'Gambia'|GMB|270
+b'Guinea-Bissau'|GNB|624
+b'Equatorial Guinea'|GNQ|226
+b'Greece'|GRC|300
+b'Grenada'|GRD|308
+b'Greenland'|GRL|304
+b'Guatemala'|GTM|320
+b'French Guiana'|GUF|254
+b'Guam'|GUM|316
+b'Guyana'|GUY|328
+b'Hong Kong'|HKG|344
+b'Heard Island and McDonald Islands'|HMD|334
+b'Honduras'|HND|340
+b'Croatia'|HRV|191
+b'Haiti'|HTI|332
+b'Hungary'|HUN|348
+b'Indonesia'|IDN|360
+b'Isle of Man'|IMN|833
+b'India'|IND|356
+b'British Indian Ocean Territory'|IOT|86
+b'Ireland'|IRL|372
+b'Iran, Islamic Republic of'|IRN|364
+b'Iraq'|IRQ|368
+b'Iceland'|ISL|352
+b'Israel'|ISR|376
+b'Italy'|ITA|380
+b'Jamaica'|JAM|388
+b'Jersey'|JEY|832
+b'Jordan'|JOR|400
+b'Japan'|JPN|392
+b'Kazakhstan'|KAZ|398
+b'Kenya'|KEN|404
+b'Kyrgyzstan'|KGZ|417
+b'Cambodia'|KHM|116
+b'Kiribati'|KIR|296
+b'Saint Kitts and Nevis'|KNA|659
+b'Korea, Republic of'|KOR|410
+b'Kuwait'|KWT|414
+b"Lao People's Democratic Republic"|LAO|418
+b'Lebanon'|LBN|422
+b'Liberia'|LBR|430
+b'Libya'|LBY|434
+b'Saint Lucia'|LCA|662
+b'Liechtenstein'|LIE|438
+b'Sri Lanka'|LKA|144
+b'Lesotho'|LSO|426
+b'Lithuania'|LTU|440
+b'Luxembourg'|LUX|442
+b'Latvia'|LVA|428
+b'Macao'|MAC|446
+b'Saint Martin (French part)'|MAF|663
+b'Morocco'|MAR|504
+b'Monaco'|MCO|492
+b'Moldova, Republic of'|MDA|498
+b'Madagascar'|MDG|450
+b'Maldives'|MDV|462
+b'Mexico'|MEX|484
+b'Marshall Islands'|MHL|584
+b'North Macedonia'|MKD|807
+b'Mali'|MLI|466
+b'Malta'|MLT|470
+b'Myanmar'|MMR|104
+b'Montenegro'|MNE|499
+b'Mongolia'|MNG|496
+b'Northern Mariana Islands'|MNP|580
+b'Mozambique'|MOZ|508
+b'Mauritania'|MRT|478
+b'Montserrat'|MSR|500
+b'Martinique'|MTQ|474
+b'Mauritius'|MUS|480
+b'Malawi'|MWI|454
+b'Malaysia'|MYS|458
+b'Mayotte'|MYT|175
+b'Namibia'|NAM|516
+b'New Caledonia'|NCL|540
+b'Niger'|NER|562
+b'Norfolk Island'|NFK|574
+b'Nigeria'|NGA|566
+b'Nicaragua'|NIC|558
+b'Niue'|NIU|570
+b'Netherlands'|NLD|528
+b'Norway'|NOR|578
+b'Nepal'|NPL|524
+b'Nauru'|NRU|520
+b'New Zealand'|NZL|554
+b'Oman'|OMN|512
+b'Pakistan'|PAK|586
+b'Panama'|PAN|591
+b'Pitcairn'|PCN|612
+b'Peru'|PER|604
+b'Philippines'|PHL|608
+b'Palau'|PLW|585
+b'Papua New Guinea'|PNG|598
+b'Poland'|POL|616
+b'Puerto Rico'|PRI|630
+b"Korea, Democratic People's Republic of"|PRK|408
+b'Portugal'|PRT|620
+b'Paraguay'|PRY|600
+b'Palestine, State of'|PSE|275
+b'French Polynesia'|PYF|258
+b'Qatar'|QAT|634
+b'Runion'|REU|638
+b'Romania'|ROU|642
+b'Russian Federation'|RUS|643
+b'Rwanda'|RWA|646
+b'Saudi Arabia'|SAU|682
+b'Sudan'|SDN|729
+b'Senegal'|SEN|686
+b'Singapore'|SGP|702
+b'South Georgia and the South Sandwich Islands'|SGS|239
+b'Saint Helena, Ascension and Tristan da Cunha'|SHN|654
+b'Svalbard and Jan Mayen'|SJM|744
+b'Solomon Islands'|SLB|90
+b'Sierra Leone'|SLE|694
+b'El Salvador'|SLV|222
+b'San Marino'|SMR|674
+b'Somalia'|SOM|706
+b'Saint Pierre and Miquelon'|SPM|666
+b'Serbia'|SRB|688
+b'South Sudan'|SSD|728
+b'Sao Tome and Principe'|STP|678
+b'Suriname'|SUR|740
+b'Slovakia'|SVK|703
+b'Slovenia'|SVN|705
+b'Sweden'|SWE|752
+b'Eswatini'|SWZ|748
+b'Sint Maarten (Dutch part)'|SXM|534
+b'Seychelles'|SYC|690
+b'Syrian Arab Republic'|SYR|760
+b'Turks and Caicos Islands'|TCA|796
+b'Chad'|TCD|148
+b'Togo'|TGO|768
+b'Thailand'|THA|764
+b'Tajikistan'|TJK|762
+b'Tokelau'|TKL|772
+b'Turkmenistan'|TKM|795
+b'Timor-Leste'|TLS|626
+b'Tonga'|TON|776
+b'Trinidad and Tobago'|TTO|780
+b'Tunisia'|TUN|788
+b'Turkey'|TUR|792
+b'Tuvalu'|TUV|798
+b'Taiwan, Province of China'|TWN|158
+b'Tanzania, United Republic of'|TZA|834
+b'Uganda'|UGA|800
+b'Ukraine'|UKR|804
+b'United States Minor Outlying Islands'|UMI|581
+b'Uruguay'|URY|858
+b'United States'|USA|840
+b'Uzbekistan'|UZB|860
+b'Holy See (Vatican City State)'|VAT|336
+b'Saint Vincent and the Grenadines'|VCT|670
+b'Venezuela, Bolivarian Republic of'|VEN|862
+b'Virgin Islands, British'|VGB|92
+b'Virgin Islands, U.S.'|VIR|850
+b'Viet Nam'|VNM|704
+b'Vanuatu'|VUT|548
+b'Wallis and Futuna'|WLF|876
+b'Samoa'|WSM|882
+b'Yemen'|YEM|887
+b'South Africa'|ZAF|710
+b'Zambia'|ZMB|894
+b'Zimbabwe'|ZWE|716

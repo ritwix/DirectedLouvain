@@ -45,3 +45,4 @@ python-binding/build/*
 !python-binding/build/python-use.py
 
 .pyenv/
+.ipynb_checkpoints/

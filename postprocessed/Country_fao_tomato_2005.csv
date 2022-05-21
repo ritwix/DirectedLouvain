@@ -1,0 +1,250 @@
+CountryId,Name,ISOCode,CommId
+533,b'Aruba',ABW,
+4,b'Afghanistan',AFG,12.0
+24,b'Angola',AGO,14.0
+660,b'Anguilla',AIA,
+248,b'land Islands',ALA,
+8,b'Albania',ALB,13.0
+20,b'Andorra',AND,
+784,b'United Arab Emirates',ARE,12.0
+32,b'Argentina',ARG,1.0
+51,b'Armenia',ARM,12.0
+16,b'American Samoa',ASM,
+10,b'Antarctica',ATA,
+260,b'French Southern Territories',ATF,
+28,b'Antigua and Barbuda',ATG,2.0
+36,b'Australia',AUS,3.0
+40,b'Austria',AUT,5.0
+31,b'Azerbaijan',AZE,13.0
+108,b'Burundi',BDI,
+56,b'Belgium',BEL,5.0
+204,b'Benin',BEN,18.0
+535,"b'Bonaire, Sint Eustatius and Saba'",BES,
+854,b'Burkina Faso',BFA,
+50,b'Bangladesh',BGD,17.0
+100,b'Bulgaria',BGR,13.0
+48,b'Bahrain',BHR,12.0
+44,b'Bahamas',BHS,7.0
+70,b'Bosnia and Herzegovina',BIH,13.0
+652,b'Saint Barthlemy',BLM,
+112,b'Belarus',BLR,13.0
+84,b'Belize',BLZ,5.0
+60,b'Bermuda',BMU,
+68,"b'Bolivia, Plurinational State of'",BOL,
+76,b'Brazil',BRA,1.0
+52,b'Barbados',BRB,6.0
+96,b'Brunei Darussalam',BRN,4.0
+64,b'Bhutan',BTN,
+74,b'Bouvet Island',BVT,
+72,b'Botswana',BWA,5.0
+140,b'Central African Republic',CAF,
+124,b'Canada',CAN,2.0
+166,b'Cocos (Keeling) Islands',CCK,
+756,b'Switzerland',CHE,16.0
+152,b'Chile',CHL,1.0
+156,b'China',CHN,8.0
+384,"b""Cte d'Ivoire""",CIV,5.0
+120,b'Cameroon',CMR,3.0
+180,"b'Congo, The Democratic Republic of the'",COD,14.0
+178,b'Congo',COG,5.0
+184,b'Cook Islands',COK,3.0
+170,b'Colombia',COL,11.0
+174,b'Comoros',COM,12.0
+132,b'Cabo Verde',CPV,5.0
+188,b'Costa Rica',CRI,10.0
+192,b'Cuba',CUB,2.0
+531,b'Curaao',CUW,
+162,b'Christmas Island',CXR,
+136,b'Cayman Islands',CYM,
+196,b'Cyprus',CYP,13.0
+203,b'Czechia',CZE,5.0
+276,b'Germany',DEU,5.0
+262,b'Djibouti',DJI,15.0
+212,b'Dominica',DMA,5.0
+208,b'Denmark',DNK,5.0
+214,b'Dominican Republic',DOM,5.0
+12,b'Algeria',DZA,12.0
+218,b'Ecuador',ECU,11.0
+818,b'Egypt',EGY,12.0
+232,b'Eritrea',ERI,13.0
+732,b'Western Sahara',ESH,
+724,b'Spain',ESP,5.0
+233,b'Estonia',EST,5.0
+231,b'Ethiopia',ETH,15.0
+246,b'Finland',FIN,5.0
+242,b'Fiji',FJI,3.0
+238,b'Falkland Islands (Malvinas)',FLK,
+250,b'France',FRA,16.0
+234,b'Faroe Islands',FRO,5.0
+583,"b'Micronesia, Federated States of'",FSM,
+266,b'Gabon',GAB,5.0
+826,b'United Kingdom',GBR,5.0
+268,b'Georgia',GEO,13.0
+831,b'Guernsey',GGY,
+288,b'Ghana',GHA,5.0
+292,b'Gibraltar',GIB,
+324,b'Guinea',GIN,5.0
+312,b'Guadeloupe',GLP,
+270,b'Gambia',GMB,5.0
+624,b'Guinea-Bissau',GNB,5.0
+226,b'Equatorial Guinea',GNQ,
+300,b'Greece',GRC,13.0
+308,b'Grenada',GRD,
+304,b'Greenland',GRL,
+320,b'Guatemala',GTM,10.0
+254,b'French Guiana',GUF,
+316,b'Guam',GUM,
+328,b'Guyana',GUY,5.0
+344,b'Hong Kong',HKG,8.0
+334,b'Heard Island and McDonald Islands',HMD,
+340,b'Honduras',HND,10.0
+191,b'Croatia',HRV,0.0
+332,b'Haiti',HTI,
+348,b'Hungary',HUN,5.0
+360,b'Indonesia',IDN,4.0
+833,b'Isle of Man',IMN,
+356,b'India',IND,17.0
+86,b'British Indian Ocean Territory',IOT,
+372,b'Ireland',IRL,5.0
+364,"b'Iran, Islamic Republic of'",IRN,12.0
+368,b'Iraq',IRQ,12.0
+352,b'Iceland',ISL,5.0
+376,b'Israel',ISR,5.0
+380,b'Italy',ITA,5.0
+388,b'Jamaica',JAM,5.0
+832,b'Jersey',JEY,
+400,b'Jordan',JOR,12.0
+392,b'Japan',JPN,9.0
+398,b'Kazakhstan',KAZ,13.0
+404,b'Kenya',KEN,19.0
+417,b'Kyrgyzstan',KGZ,13.0
+116,b'Cambodia',KHM,
+296,b'Kiribati',KIR,3.0
+659,b'Saint Kitts and Nevis',KNA,2.0
+410,"b'Korea, Republic of'",KOR,9.0
+414,b'Kuwait',KWT,12.0
+418,"b""Lao People's Democratic Republic""",LAO,
+422,b'Lebanon',LBN,12.0
+430,b'Liberia',LBR,16.0
+434,b'Libya',LBY,16.0
+662,b'Saint Lucia',LCA,2.0
+438,b'Liechtenstein',LIE,
+144,b'Sri Lanka',LKA,17.0
+426,b'Lesotho',LSO,
+440,b'Lithuania',LTU,5.0
+442,b'Luxembourg',LUX,16.0
+428,b'Latvia',LVA,5.0
+446,b'Macao',MAC,8.0
+663,b'Saint Martin (French part)',MAF,
+504,b'Morocco',MAR,16.0
+492,b'Monaco',MCO,
+498,"b'Moldova, Republic of'",MDA,13.0
+450,b'Madagascar',MDG,12.0
+462,b'Maldives',MDV,17.0
+484,b'Mexico',MEX,2.0
+584,b'Marshall Islands',MHL,
+807,b'North Macedonia',MKD,0.0
+466,b'Mali',MLI,5.0
+470,b'Malta',MLT,5.0
+104,b'Myanmar',MMR,
+499,b'Montenegro',MNE,
+496,b'Mongolia',MNG,
+580,b'Northern Mariana Islands',MNP,
+508,b'Mozambique',MOZ,14.0
+478,b'Mauritania',MRT,5.0
+500,b'Montserrat',MSR,
+474,b'Martinique',MTQ,
+480,b'Mauritius',MUS,
+454,b'Malawi',MWI,
+458,b'Malaysia',MYS,4.0
+175,b'Mayotte',MYT,
+516,b'Namibia',NAM,
+540,b'New Caledonia',NCL,3.0
+562,b'Niger',NER,18.0
+574,b'Norfolk Island',NFK,
+566,b'Nigeria',NGA,18.0
+558,b'Nicaragua',NIC,10.0
+570,b'Niue',NIU,3.0
+528,b'Netherlands',NLD,5.0
+578,b'Norway',NOR,5.0
+524,b'Nepal',NPL,17.0
+520,b'Nauru',NRU,
+554,b'New Zealand',NZL,3.0
+512,b'Oman',OMN,12.0
+586,b'Pakistan',PAK,17.0
+591,b'Panama',PAN,5.0
+612,b'Pitcairn',PCN,
+604,b'Peru',PER,5.0
+608,b'Philippines',PHL,5.0
+585,b'Palau',PLW,
+598,b'Papua New Guinea',PNG,3.0
+616,b'Poland',POL,5.0
+630,b'Puerto Rico',PRI,
+408,"b""Korea, Democratic People's Republic of""",PRK,
+620,b'Portugal',PRT,5.0
+600,b'Paraguay',PRY,1.0
+275,"b'Palestine, State of'",PSE,
+258,b'French Polynesia',PYF,3.0
+634,b'Qatar',QAT,12.0
+638,b'Runion',REU,
+642,b'Romania',ROU,13.0
+643,b'Russian Federation',RUS,13.0
+646,b'Rwanda',RWA,19.0
+682,b'Saudi Arabia',SAU,13.0
+729,b'Sudan',SDN,
+686,b'Senegal',SEN,16.0
+702,b'Singapore',SGP,4.0
+239,b'South Georgia and the South Sandwich Islands',SGS,
+654,"b'Saint Helena, Ascension and Tristan da Cunha'",SHN,
+744,b'Svalbard and Jan Mayen',SJM,
+90,b'Solomon Islands',SLB,
+694,b'Sierra Leone',SLE,5.0
+222,b'El Salvador',SLV,10.0
+674,b'San Marino',SMR,
+706,b'Somalia',SOM,13.0
+666,b'Saint Pierre and Miquelon',SPM,
+688,b'Serbia',SRB,0.0
+728,b'South Sudan',SSD,
+678,b'Sao Tome and Principe',STP,
+740,b'Suriname',SUR,5.0
+703,b'Slovakia',SVK,5.0
+705,b'Slovenia',SVN,5.0
+752,b'Sweden',SWE,5.0
+748,b'Eswatini',SWZ,14.0
+534,b'Sint Maarten (Dutch part)',SXM,
+690,b'Seychelles',SYC,4.0
+760,b'Syrian Arab Republic',SYR,12.0
+796,b'Turks and Caicos Islands',TCA,
+148,b'Chad',TCD,
+768,b'Togo',TGO,5.0
+764,b'Thailand',THA,4.0
+762,b'Tajikistan',TJK,8.0
+772,b'Tokelau',TKL,
+795,b'Turkmenistan',TKM,
+626,b'Timor-Leste',TLS,3.0
+776,b'Tonga',TON,3.0
+780,b'Trinidad and Tobago',TTO,6.0
+788,b'Tunisia',TUN,16.0
+792,b'Turkey',TUR,13.0
+798,b'Tuvalu',TUV,
+158,"b'Taiwan, Province of China'",TWN,2.0
+834,"b'Tanzania, United Republic of'",TZA,19.0
+800,b'Uganda',UGA,
+804,b'Ukraine',UKR,13.0
+581,b'United States Minor Outlying Islands',UMI,
+858,b'Uruguay',URY,1.0
+840,b'United States',USA,2.0
+860,b'Uzbekistan',UZB,
+336,b'Holy See (Vatican City State)',VAT,
+670,b'Saint Vincent and the Grenadines',VCT,6.0
+862,"b'Venezuela, Bolivarian Republic of'",VEN,7.0
+92,"b'Virgin Islands, British'",VGB,
+850,"b'Virgin Islands, U.S.'",VIR,
+704,b'Viet Nam',VNM,8.0
+548,b'Vanuatu',VUT,3.0
+876,b'Wallis and Futuna',WLF,
+882,b'Samoa',WSM,3.0
+887,b'Yemen',YEM,13.0
+710,b'South Africa',ZAF,14.0
+894,b'Zambia',ZMB,14.0
+716,b'Zimbabwe',ZWE,14.0
